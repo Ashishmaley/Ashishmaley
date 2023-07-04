@@ -7,14 +7,14 @@
 -                                     https://github.com/Ashishmaley/Chat_App
 -                                 }
 
-- 🌱 I’m_currently_learning **(Flutter){...}**
+- 🌱 I’m_currently_learning **(){Flutter,java Full Stack }**
 
-- 👯 I’m_looking_to_collaborate_on **(Android Projects ){...}**
+- 👯 I’m_looking_to_collaborate_on **(){Android}**
 
 - 👨‍💻 All_of_my_projects_are_available_at() {
 -                          https://github.com/Ashishmaley
 -                       }
-- 💬 Ask_me_about() **{Android,Dsa...}**
+- 💬 Ask_me_about() **{...}**
 
 - 📫 How_to_reach_me()
 -             ashishmaley20341@acropolis.in
