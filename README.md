@@ -14,11 +14,11 @@
 - 👨‍💻 All_of_my_projects_are_available_at() {
 -                          https://github.com/Ashishmaley
 -                       }
-- 💬 Ask_me_about() **{...}**
+- 💬 Ask_me_about() **{Android,dsa}**
 
-- 📫 How_to_reach_me()
+- 📫 How_to_reach_me(){
 -             ashishmaley20341@acropolis.in
-
+  }
 - 📄 Know_about_my_experiences [resume](https://1drv.ms/b/s!AjlOcuxYf44ljzNUWYwBwm1PwWcG?e=oXUk2T)
 
 <h3 align="left">Connect with me:</h3>
