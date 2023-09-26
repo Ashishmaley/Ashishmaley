@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmaley&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmaley" /> </p>
 
-- 🔭 I’m_currently_working_on (ChatApp){
--                                     https://github.com/Ashishmaley/Chat_App
+- 🔭 I’m_currently_working_on (CiviLink){
+-                                     https://github.com/Ashishmaley/Chat_App](https://github.com/Ashishmaley/CiviLink
 -                                 }
 
-- 🌱 I’m_currently_learning **(){Flutter,java Full Stack }**
+- 🌱 I’m_currently_learning **(){Flutter}**
 
-- 👯 I’m_looking_to_collaborate_on **(){Android}**
+- 👯 I’m_looking_to_collaborate_on **(){Android Development}**
 
 - 👨‍💻 All_of_my_projects_are_available_at() {
 -                          https://github.com/Ashishmaley
 -                       }
-- 💬 Ask_me_about() **{Android,dsa}**
+- 💬 Ask_me_about() **{Android Development, DSA and Sql}**
 
 - 📫 How_to_reach_me(){
 -             ashishmaley20341@acropolis.in
   }
-- 📄 Know_about_my_experiences [resume](https://1drv.ms/b/s!AjlOcuxYf44ljzNUWYwBwm1PwWcG?e=oXUk2T)
+- 📄 Know_about_my_experiences [resume](https://1drv.ms/b/s!AjlOcuxYf44ljzNUWYwBwm1PwWcG?e=oXUk2T](https://drive.google.com/file/d/1REtF5U6hS9AkzkPpFNM_sSqOFQ_x5-_N/view?usp=sharing )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
