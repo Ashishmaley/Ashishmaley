@@ -19,8 +19,7 @@
 - 📫 How_to_reach_me(){
 -             ashishmaley20341@acropolis.in
   }
-- 📄 Know_about_my_experiences [resume]
--                 https://1drv.ms/b/s!AjlOcuxYf44ljzNUWYwBwm1PwWcG?e=oXUk2T](https://drive.google.com/file/d/1REtF5U6hS9AkzkPpFNM_sSqOFQ_x5-_N/view?usp=sharing 
+- 📄 Know_about_my_experiences <a href ="https://drive.google.com/file/d/1REtF5U6hS9AkzkPpFNM_sSqOFQ_x5-_N/view?usp=sharing">Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
