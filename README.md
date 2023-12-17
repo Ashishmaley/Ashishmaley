@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.codechef.com/users/ashishmaley_1" target="blank"><img align="center" src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="ashishmaley_1" height="30" width="40" /></a>
 </p>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Ashishmaley/Memer2.0/assets/90534593/248df6b6-a7b9-4df2-a5b5-3ca419d38c18" alt="..." width="400" height="350"/> </a> 
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src= https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/f0c9a461-0629-4d30-9249-8956316d1cd9 /> </a> 
   <img  src ="https://github.com/Ashishmaley/LeetCode/assets/90534593/0be74bc8-ec01-4925-9e17-271892077212" alt="Leetcode Badge" style="float: left;">
 <h3 align="left">
   Languages and Tools:</h3>
