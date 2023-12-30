@@ -33,7 +33,6 @@
   Languages and Tools </h3>
 <p align="left">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <h3 align="left"> 
   Wipro Java Certification:</h3>
  <img src= https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/43cb2cb6-982b-479a-8396-f0aaa7d36cad/>
