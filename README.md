@@ -34,14 +34,18 @@
 <p align="left">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <h3 align="left">
- Java Certification:</h3>
+  <h3 align="left"> 
+  Wipro Java Certification:</h3>
  <img src= https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/43cb2cb6-982b-479a-8396-f0aaa7d36cad/>
  <h3 align="left">
+ Persistent Internship Certification</h3>
+ <img src=https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/11d4fab2-cf0f-48e7-882e-be645a3b73f0/>
+    <h3 align="left">
   Android Certification</h3>
  <img src=https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/7e7c649d-5c12-4a9a-9705-1b7a433a9fe6/>
   
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+    
    </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishmaley&show_icons=true&locale=en&layout=compact" alt="ashishmaley" /></p>
