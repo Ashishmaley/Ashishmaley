@@ -1,5 +1,5 @@
 <h1 align="left">Class AshishMaley{</h1>
-<h3 align="left">Public : A passionate Android developer;</h3>
+<h3 align="left">Public : A passionate Android and Java developer;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmaley&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmaley" /> </p>
 
