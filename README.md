@@ -34,19 +34,20 @@
 
 <h3 align="left">
   Languages and Tools </h3>
-<p align="left"> 
-  <img src="https://github.com/Ashishmaley/Ashishmaley/assets/90534593/da14c104-2254-4489-9250-cf9b85f7ae01" alt="java" width="40" height="40"/> </a>
-  <h3 align="left">
-    <img src="https://github.com/Ashishmaley/Ashishmaley/assets/90534593/8e6017c1-3ee1-480b-abf2-b32360bdddd8" alt="cpp" width="40" height="40"/> </a>
-  <h3 align="left">
-
-  <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="SpringBoot" width="40" height="40"/> </a>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIP3Bes03i6Q_Q5gW12FLmj2Ku3Bur2EnXxg&usqp=CAU" alt="intelij" width="40" height="40"/> </a>
+<p align="left">
+  <table>
+  <tr>  
+    <td>
+      <img src="https://github.com/Ashishmaley/Ashishmaley/assets/90534593/da14c104-2254-4489-9250-cf9b85f7ae01" alt="java" width="40" height="40"/> </a>
+      <img src="https://github.com/Ashishmaley/Ashishmaley/assets/90534593/8e6017c1-3ee1-480b-abf2-b32360bdddd8" alt="cpp" width="40" height="40"/> </a>
+      <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="SpringBoot" width="40" height="40"/> </a>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIP3Bes03i6Q_Q5gW12FLmj2Ku3Bur2EnXxg&usqp=CAU" alt="intelij" width="40" height="40"/> </a>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <img src="https://github.com/Ashishmaley/Ecommerce-website/assets/90534593/a39b1f0b-dd24-49f9-95a3-28302a0ab63d" alt="android studio" width="40" height="40"/> </a>
+     </td>
+    </tr>
+  </table>
   <h3 align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Ashishmaley/Ecommerce-website/assets/90534593/a39b1f0b-dd24-49f9-95a3-28302a0ab63d" alt="android studio" width="40" height="40"/> </a>
-  <h3 align="left"> 
-    
   Wipro Java Certification:</h3>
  <img src= https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/43cb2cb6-982b-479a-8396-f0aaa7d36cad/>
  <h3 align="left">
