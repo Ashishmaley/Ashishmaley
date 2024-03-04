@@ -35,8 +35,13 @@
 <h3 align="left">
   Languages and Tools </h3>
 <p align="left">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="SpringBoot" width="40" height="40"/> </a>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIP3Bes03i6Q_Q5gW12FLmj2Ku3Bur2EnXxg&usqp=CAU" alt="intelij" width="40" height="40"/> </a>
   <h3 align="left"> 
+    
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIP3Bes03i6Q_Q5gW12FLmj2Ku3Bur2EnXxg&usqp=CAU" alt="intelij" width="40" height="40"/> </a>
+  <h3 align="left"> 
+    
   Wipro Java Certification:</h3>
  <img src= https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/43cb2cb6-982b-479a-8396-f0aaa7d36cad/>
  <h3 align="left">
