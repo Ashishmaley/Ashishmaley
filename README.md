@@ -28,9 +28,8 @@
 </p>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src= https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/f0c9a461-0629-4d30-9249-8956316d1cd9 /> </a> 
   <img align="center" src="https://github.com/Ashishmaley/codechef_codeforce_geeks_codingninjas/assets/90534593/691b478f-a2a0-4f20-b26f-2bec2aeef83e" alt="ashishmaley_1"/>
-
   <img  src ="https://github.com/Ashishmaley/LeetCode/assets/90534593/0be74bc8-ec01-4925-9e17-271892077212" alt="Leetcode Badge" style="float: left;">
-  
+  <img  src ="https://github.com/Ashishmaley/Ashishmaley/assets/90534593/66822202-b3bd-4ee9-a286-790b95333ea3" alt="Leetcode Badge" style="float: left;">
   <img align="center" src="https://github.com/Ashishmaley/Ecommerce-website/assets/90534593/e6439f5c-f1d4-4cc0-8fc6-554b29752b99" alt="ashishmaley_1"/>
 
 <h3 align="left">
