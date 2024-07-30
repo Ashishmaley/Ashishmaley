@@ -1,5 +1,5 @@
 <h1 align="left">Class AshishMaley{</h1>
-<h3 align="left">Public : A passionate Android and Java developer;</h3>
+<h3 align="left">Public : Java developer;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmaley&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmaley" /> </p>
 
@@ -7,19 +7,19 @@
 -                                     https://github.com/Ashishmaley/Chat_App](https://github.com/Ashishmaley/CiviLink
 -                                 }
 
-- 🌱 I’m_currently_learning **(){Flutter}**
+- 🌱 I’m_currently_learning **(){ Java Full Stack }**
 
-- 👯 I’m_looking_to_collaborate_on **(){Android Development}**
+- 👯 I’m_looking_to_collaborate_on **(){ Spring boot Development}**
 
 - 👨‍💻 All_of_my_projects_are_available_at() {
 -                          https://github.com/Ashishmaley
 -                       }
-- 💬 Ask_me_about() **{Android Development, DSA and Sql}**
+- 💬 Ask_me_about() **{ Java Development,  Android Development, DSA and Sql}**
 
 - 📫 How_to_reach_me(){
 -             ashishmaley20341@acropolis.in
   }
-- 📄 Know_about_my_experiences <a href ="https://drive.google.com/file/d/1REtF5U6hS9AkzkPpFNM_sSqOFQ_x5-_N/view?usp=sharing">Resume</a> 
+- 📄 Know_about_my_experiences <a href ="">Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
